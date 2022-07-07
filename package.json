@@ -1,0 +1,16 @@
+{
+  "name": "4xng",
+  "version": "1.0.0-alpha.1",
+  "description": "engine to create 4x games in javascript",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "author": "CodingVampyre",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "typescript": "^4.7.4"
+  }
+}
